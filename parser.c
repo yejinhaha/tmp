@@ -88,7 +88,7 @@ void factor(){
 }
 
 int main(){
-    if ((in_fp = fopen("front.in", "r")) == NULL)
+    if ((in_fp = fopen("input.txt", "r")) == NULL)
         printf("ERROR-cannot open front.in \n");
     else{
         getChar();
