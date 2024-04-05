@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 /*parser.c 단순 산술식에 대한 구문 분석기 시스템*/
 #include <stdio.h>
 #include <ctype.h>
@@ -20,7 +21,7 @@ extern FILE *in_fp;
 void expr();
 void term();
 void factor();
-void lex();
+int lex();
 void error();
 void getChar();
 
