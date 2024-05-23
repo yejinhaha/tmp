@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019932424835",
+    "project_id": "login-995b4",
+    "storage_bucket": "login-995b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019932424835:android:6ee6c8e8fe3d493e0d79b6",
+        "android_client_info": {
+          "package_name": "com.mycompany.tutorialmultilanguageapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq-i0vn30_VUSBUjWKkCCm16c0WDGALR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
